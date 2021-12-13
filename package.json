@@ -1,0 +1,8 @@
+{
+  "name": "override-mapping-webpack-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cristianodmtsb/override-mapping-webpack-plugin",
+  "author": "cristianodmtsb",
+  "license": "MIT"
+}
